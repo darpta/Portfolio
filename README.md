@@ -21,8 +21,11 @@ My name is
   - [CodersLab: Tester Manualny](https://coderslab.pl/pl/tester-manualny)
   - [CodersLab: Tester Automatyzujący](https://coderslab.pl/pl/tester-automatyzujacy)
 ## Books
-  - R.Smilgin - Zawód tester
-  - K.Jadczyk - Pasja testowania
+  - Michał Wiszniewski - "Python na start!"
+  - Michael Dawson - "Python dla każdego. Podstawy programowania"
+  - Baiju Muthukadan - "Selenium Python Bindings"
+  - Radosław Smilgin - "Zawód tester"
+  - Krzysztof Jadczyk - "Pasja testowania"
 ## Courses on Udemy
   - [Python basics](https://www.udemy.com/course/python-dla-poczatkujacych/) - 7 hours
   - [Basics of Cypress - Test Automation](https://www.udemy.com/course/cypress-od-podstaw/) - 9 hours
@@ -30,14 +33,15 @@ My name is
 ## Courses on YouTube
   - [Playwright with TypeScript](https://www.youtube.com/watch?v=JqEp2cjnzAo&list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7) - jaktestowac pl - 7 hours
   - [Learn pytest in 6 Hours | Complete pytest framework Tutorial](https://www.youtube.com/watch?v=KZstMSOHIvQ) - LambdaTest - 6 hours
+  - [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY) - Jak nauczyć się programowania - 2 hours
 ## Recommended sites
   - jaktestowac.pl
-  - testerzy.pl
-  - testuj.pl - Test, Bugs & Rock'n'Roll
-  - pwicherski.gitbook.io
+  - akademiaqa.pl
+  - w3schools.com
+  - automationstepbystep.com
   - GeekON
 ## Webinars
-  - GeekON - praktyczne ćwiczenie SQL
-  - Szkoła testera - podstawy testowania
-## Articles
-  - 
+  - AkademiaQA - Testowanie REST API
+  - jaktestowac.pl - Mockowanie API z Playwright
+  - TestinGil - How to create API test plan
+  - TestinGil - Spring Testing Tips
