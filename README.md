@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-My name is
+My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certificate) and Automotive Tester (Selenium with Java) courses at IT CodersLab School in Warsaw as well as the Programming Basics and Java Language course at ALX School in Warsaw. I would like to develop my skills in automation testing. I have a lot of experience with automation tests in Cypress framework with TypeScript. I created automation tests of the progressive web application from scratch. I also develop my automation testing skills using Selenium with Python and Playwright with TypeScript / Python. I am a creative person, I do not only perform tests, but also analyse all data and present proposals for possible improvement of the current state. I have many years of experience in analysis and can do it very effectively. I like challenges and difficult cases for which I can find solutions. I know I can still learn a lot, but I have the will and ability to do so.
 ## Tech skills
   - Manual testing
   - Analysis of requirements and documentation in the project
