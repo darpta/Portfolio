@@ -16,7 +16,7 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - ALX - "Nauka programowania i język Java" - No. ALX146017D
   - CodersLab - "Tester Manualny" - No. 4901/2020
   - CodersLab - "Tester Automatyzujący" - No. 5899/2020
-## Courses
+## Courses in IT Schools
   - [ALX: Nauka programowania i język Java](https://www.alx.pl/pl/prog-java-intro/)
   - [CodersLab: Tester Manualny](https://coderslab.pl/pl/tester-manualny)
   - [CodersLab: Tester Automatyzujący](https://coderslab.pl/pl/tester-automatyzujacy)
@@ -38,12 +38,14 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - [Selenium Python Small Sample Project | Page Object Model POM](https://www.youtube.com/watch?v=BURK7wMcCwU&list=PLhW3qG5bs-L9JjtXx-adxWdbjaxeRhi7h&index=12) - Automation Step by Step - 1 hour
 ## Recommended sites
   - jaktestowac.pl
+  - cantest.it
   - akademiaqa.pl
   - w3schools.com
   - automationstepbystep.com
   - GeekON
 ## Webinars
   - AkademiaQA - Testowanie REST API
+  - antest.it - Angielski dla testera
   - jaktestowac.pl - Mockowanie API z Playwright
   - testelka.pl - Wprowadzenie do automatyzacji testów
   - TestinGil - How to create API test plan
