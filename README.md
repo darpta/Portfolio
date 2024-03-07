@@ -34,6 +34,8 @@ My name is
   - [Playwright with TypeScript](https://www.youtube.com/watch?v=JqEp2cjnzAo&list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7) - jaktestowac pl - 7 hours
   - [Learn pytest in 6 Hours | Complete pytest framework Tutorial](https://www.youtube.com/watch?v=KZstMSOHIvQ) - LambdaTest - 6 hours
   - [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY) - Jak nauczyć się programowania - 2 hours
+  - [Selenium Python](https://www.youtube.com/watch?v=H9HUVSA_78U&list=PLhW3qG5bs-L9JjtXx-adxWdbjaxeRhi7h&index=32) - Automation Step by Step - 4 hours
+  - [Selenium Python Small Sample Project | Page Object Model POM](https://www.youtube.com/watch?v=BURK7wMcCwU&list=PLhW3qG5bs-L9JjtXx-adxWdbjaxeRhi7h&index=12) - Automation Step by Step - 1 hour
 ## Recommended sites
   - jaktestowac.pl
   - akademiaqa.pl
@@ -43,5 +45,6 @@ My name is
 ## Webinars
   - AkademiaQA - Testowanie REST API
   - jaktestowac.pl - Mockowanie API z Playwright
+  - testelka.pl - Wprowadzenie do automatyzacji testów
   - TestinGil - How to create API test plan
   - TestinGil - Spring Testing Tips
