@@ -31,6 +31,7 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - [Basics of Cypress - Test Automation](https://www.udemy.com/course/cypress-od-podstaw/) - 9 hours
   - [Basics of Postman - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - 6 hours
 ## Courses on YouTube
+### 2024
   - [Playwright with TypeScript](https://www.youtube.com/watch?v=JqEp2cjnzAo&list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7) - jaktestowac pl - 7 hours
   - [Learn pytest in 6 Hours | Complete pytest framework Tutorial](https://www.youtube.com/watch?v=KZstMSOHIvQ) - LambdaTest - 6 hours
   - [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY) - Jak nauczyć się programowania - 2 hours
