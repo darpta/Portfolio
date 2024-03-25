@@ -7,9 +7,10 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - Test automation: Cypress with JavaScript / TypeScript
   - Test automation: Selenium with Java / Python
   - Test automation: Playwright with TypeScript / Python
+  - API testing using Postman and Rest Assured
+  - Utilizing GitHub Actions and Azure DevOps for tests
   - Test cases scripting in TestRail and Zephyr
   - Database operations using SQL
-  - API testing in Postman
   - Tasks tracking and bugs reporting in Jira
 ## Certificates
   - ISTQB - No. 14228/FLCT/2020
@@ -27,16 +28,20 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - Radosław Smilgin - "Zawód tester"
   - Krzysztof Jadczyk - "Pasja testowania"
 ## Courses on Udemy
+  - [REST Assured Fundamentals](https://www.udemy.com/course/rest-assured-fundamentals/) - 3.5 hours
   - [Python basics](https://www.udemy.com/course/python-dla-poczatkujacych/) - 7 hours
   - [Basics of Cypress - Test Automation](https://www.udemy.com/course/cypress-od-podstaw/) - 9 hours
   - [Basics of Postman - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - 6 hours
 ## Courses on YouTube
 ### 2024
-  - [Playwright with TypeScript](https://www.youtube.com/watch?v=JqEp2cjnzAo&list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7) - jaktestowac pl - 7 hours
-  - [Learn pytest in 6 Hours | Complete pytest framework Tutorial](https://www.youtube.com/watch?v=KZstMSOHIvQ) - LambdaTest - 6 hours
-  - [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY) - Jak nauczyć się programowania - 2 hours
-  - [Selenium Python](https://www.youtube.com/watch?v=H9HUVSA_78U&list=PLhW3qG5bs-L9JjtXx-adxWdbjaxeRhi7h&index=32) - Automation Step by Step - 4 hours
-  - [Selenium Python Small Sample Project | Page Object Model POM](https://www.youtube.com/watch?v=BURK7wMcCwU&list=PLhW3qG5bs-L9JjtXx-adxWdbjaxeRhi7h&index=12) - Automation Step by Step - 1 hour
+  - [REST Assured Tutorial - Basics of API Testing with Rest Assured](https://www.youtube.com/watch?v=25NAEM9Y6NY&list=PLbwZ_0ncMaxhB43YQKv9SjyrfbZCOYxX3) - ToolsQA
+  - [POST request with Postman](https://www.youtube.com/watch?v=eYQyqf-DtCQ) - Valentin Despa
+  - [Visual Testing in Playwright: Ensure UI Consistency | Complete Tutorial](https://www.youtube.com/watch?v=-zDZE00_p24) - CommitQuality
+  - [Playwright with TypeScript](https://www.youtube.com/watch?v=JqEp2cjnzAo&list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7) - jaktestowac.pl
+  - [Learn pytest in 6 Hours | Complete pytest framework Tutorial](https://www.youtube.com/watch?v=KZstMSOHIvQ) - LambdaTest
+  - [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY) - Jak nauczyć się programowania
+  - [Selenium Python](https://www.youtube.com/watch?v=H9HUVSA_78U&list=PLhW3qG5bs-L9JjtXx-adxWdbjaxeRhi7h&index=32) - Automation Step by Step
+  - [Selenium Python Small Sample Project | Page Object Model POM](https://www.youtube.com/watch?v=BURK7wMcCwU&list=PLhW3qG5bs-L9JjtXx-adxWdbjaxeRhi7h&index=12) - Automation Step by Step
 ## Recommended sites
   - jaktestowac.pl
   - cantest.it
