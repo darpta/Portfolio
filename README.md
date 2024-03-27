@@ -29,9 +29,9 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - Krzysztof Jadczyk - "Pasja testowania"
 ## Courses on Udemy
   - [REST Assured Fundamentals](https://www.udemy.com/course/rest-assured-fundamentals/) - 3.5 hours
+  - [Postman basics - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - 6 hours
   - [Python basics](https://www.udemy.com/course/python-dla-poczatkujacych/) - 7 hours
-  - [Basics of Cypress - Test Automation](https://www.udemy.com/course/cypress-od-podstaw/) - 9 hours
-  - [Basics of Postman - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - 6 hours
+  - [Cypress basics - Test Automation](https://www.udemy.com/course/cypress-od-podstaw/) - 9 hours
 ## Courses on YouTube
 ### 2024
   - [REST Assured Tutorial - Basics of API Testing with Rest Assured](https://www.youtube.com/watch?v=25NAEM9Y6NY&list=PLbwZ_0ncMaxhB43YQKv9SjyrfbZCOYxX3) - ToolsQA
