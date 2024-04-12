@@ -28,6 +28,7 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - Radosław Smilgin - "Zawód tester"
   - Krzysztof Jadczyk - "Pasja testowania"
 ## Courses on Udemy
+  - [Robot Framework basics](https://www.udemy.com/course/robot-framework-kurs-podstawowy/) - 5.5 hours
   - [REST Assured Fundamentals](https://www.udemy.com/course/rest-assured-fundamentals/) - 3.5 hours
   - [Postman basics - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - 6 hours
   - [Python basics](https://www.udemy.com/course/python-dla-poczatkujacych/) - 7 hours
