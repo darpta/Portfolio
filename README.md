@@ -34,7 +34,6 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - [Python basics](https://www.udemy.com/course/python-dla-poczatkujacych/) - 7 hours
   - [Cypress basics - Test Automation](https://www.udemy.com/course/cypress-od-podstaw/) - 9 hours
 ## Courses on YouTube
-### 2024
   - [REST Assured Tutorial - Basics of API Testing with Rest Assured](https://www.youtube.com/watch?v=25NAEM9Y6NY&list=PLbwZ_0ncMaxhB43YQKv9SjyrfbZCOYxX3) - ToolsQA
   - [POST request with Postman](https://www.youtube.com/watch?v=eYQyqf-DtCQ) - Valentin Despa
   - [Visual Testing in Playwright: Ensure UI Consistency | Complete Tutorial](https://www.youtube.com/watch?v=-zDZE00_p24) - CommitQuality
