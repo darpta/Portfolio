@@ -27,13 +27,14 @@ My name is Daiusz Ptak. I am a graduate of the Manual Tester (with ISTQB certifi
   - Baiju Muthukadan - "Selenium Python Bindings"
   - Radosław Smilgin - "Zawód tester"
   - Krzysztof Jadczyk - "Pasja testowania"
-## Courses on Udemy
+## Udemy courses
+  - [Web Design Course, part 1 - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/) - 10 hours
   - [Robot Framework basics](https://www.udemy.com/course/robot-framework-kurs-podstawowy/) - 5.5 hours
   - [REST Assured Fundamentals](https://www.udemy.com/course/rest-assured-fundamentals/) - 3.5 hours
   - [Postman basics - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - 6 hours
   - [Python basics](https://www.udemy.com/course/python-dla-poczatkujacych/) - 7 hours
   - [Cypress basics - Test Automation](https://www.udemy.com/course/cypress-od-podstaw/) - 9 hours
-## Courses on YouTube
+## YouTube courses
   - [REST Assured Tutorial - Basics of API Testing with Rest Assured](https://www.youtube.com/watch?v=25NAEM9Y6NY&list=PLbwZ_0ncMaxhB43YQKv9SjyrfbZCOYxX3) - ToolsQA
   - [POST request with Postman](https://www.youtube.com/watch?v=eYQyqf-DtCQ) - Valentin Despa
   - [Visual Testing in Playwright: Ensure UI Consistency | Complete Tutorial](https://www.youtube.com/watch?v=-zDZE00_p24) - CommitQuality
